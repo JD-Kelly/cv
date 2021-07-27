@@ -1,21 +1,21 @@
-# Jonny Kelly
-
+<div align='center'> 
+ 
 ### Junior Software Engineer 
  
- [LinkedIn](https://www.linkedin.com/in/j-kelly/) / [Github](https://github.com/JD-Kelly) / [Medium](https://jonny-kelly.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/j-kelly/) / [Github](https://github.com/JD-Kelly) / [Medium](https://jonny-kelly.medium.com/)
 
 ### [Makers - Software Engineering Bootcamp](https://makers.tech/curriculum/) | March 2021 - July 2021
 4 months of intense, hands-on coding  
-    Built various projects focussing on: TDD, BDD, working in a dev team, pair programming:  
-        [Banking App](https://github.com/JD-Kelly/bank_tech_test)  
-        [Makers Final Project - Hang-Git](https://github.com/JD-Kelly/hang-git)
+Built various projects focussing on: TDD, BDD, working in a dev team, pair programming:  
+[Banking App](https://github.com/JD-Kelly/bank_tech_test)  
+[Makers Final Project - Hang-Git](https://github.com/JD-Kelly/hang-git)
   
 
 ### [Udacity - Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) | July 2020 - October 2020
- 4 months of self-led, project focussed work   
-   Built various projects focussing on: Data wrangling, Data visualization, Python, SQL, Statistical analysis:    
-     [Twitter Data Wrangling](https://github.com/JD-Kelly/twitter-data-wranglling)  
-     [FordGo bike Data Analysis](https://github.com/JD-Kelly/Ford-GoBike-Data-Analysis)
+4 months of self-led, project focussed work   
+Built various projects focussing on: Data wrangling, Data visualization, Python, SQL, Statistical analysis:    
+[Twitter Data Wrangling](https://github.com/JD-Kelly/twitter-data-wranglling)  
+[FordGo bike Data Analysis](https://github.com/JD-Kelly/Ford-GoBike-Data-Analysis) </div>
  
 # Experience
 ## Makers, London — Head of Developer Success
