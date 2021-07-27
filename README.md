@@ -1,4 +1,4 @@
-<div align='center'> 
+<div align='center'>
  
 ### Junior Software Engineer 
  
@@ -15,7 +15,9 @@ Built various projects focussing on: TDD, BDD, working in a dev team, pair progr
 4 months of self-led, project focussed work   
 Built various projects focussing on: Data wrangling, Data visualization, Python, SQL, Statistical analysis:    
 [Twitter Data Wrangling](https://github.com/JD-Kelly/twitter-data-wranglling)  
-[FordGo bike Data Analysis](https://github.com/JD-Kelly/Ford-GoBike-Data-Analysis) </div>
+[FordGo bike Data Analysis](https://github.com/JD-Kelly/Ford-GoBike-Data-Analysis) 
+
+</div>
  
 # Experience
 ## Makers, London — Head of Developer Success
