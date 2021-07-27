@@ -1,4 +1,5 @@
 
+
 ### Junior Software Engineer 
  
 [LinkedIn](https://www.linkedin.com/in/j-kelly/) / [Github](https://github.com/JD-Kelly) / [Medium](https://jonny-kelly.medium.com/)
@@ -18,7 +19,8 @@ Built various projects focussing on: Data wrangling, Data visualization, Python,
 
  
 # Experience
-## Makers, London — Head of Developer Success | April 2020 - March 2021
+## Makers, London  
+### Head of Developer Success | April 2020 - March 2021
 
 - Ensuring the success of those who join Makers from application to first role
 - Hired and built a new team focussed around engagement, success and experience
@@ -39,13 +41,15 @@ Built various projects focussing on: Data wrangling, Data visualization, Python,
 - Introduced events to attract applicants 
 - Interviewd and selected hundreds of applicants
 
-## Movebubble, London — Operations Executive | April 2017 - October 2017 
+## Movebubble, London   
+### Operations Executive | April 2017 - October 2017 
 
 - Working within an exciting start-up to support renters in London
 - Expanding the customer base and improving customer experience
 - On the front lines of customer interactions 
 
-## Integro Interiors, London — Partner | June 2014 - April 2017 
+## Integro Interiors, London   
+### Partner | June 2014 - April 2017 
 
 - Built a family business working with architects and private clients within London
 - I led on sourcing new clients, project delivery and overall management of the venture
