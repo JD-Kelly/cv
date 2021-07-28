@@ -1,7 +1,7 @@
+# Jonny Kelly
+## Junior Software Engineer
 
 
-### Junior Software Engineer 
- 
 [LinkedIn](https://www.linkedin.com/in/j-kelly/) / [Github](https://github.com/JD-Kelly) / [Medium](https://jonny-kelly.medium.com/)
 
 ### [Makers - Software Engineering Bootcamp](https://makers.tech/curriculum/) | March 2021 - July 2021
